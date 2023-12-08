@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "dev": "turbo dev",
-    "dev:react": "turbo dev --filter=crm-react",
     "dev:vue": "turbo dev --filter=crm-vue"
   },
   "keywords": [],
