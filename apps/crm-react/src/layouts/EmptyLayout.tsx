@@ -1,8 +1,8 @@
 import { Outlet } from 'react-router-dom';
 
-export default function Layout() {
+export default function EmptyLayout() {
   return (
-    <div className="284">
+    <div>
       <Outlet />
     </div>
   );
